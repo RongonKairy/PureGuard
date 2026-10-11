@@ -6,17 +6,6 @@
 
 **A free browser extension that blocks adult (18+) websites, images, videos and removes ads.**
 
-![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Free](https://img.shields.io/badge/Price-Free%20Forever-brightgreen?style=for-the-badge)
-![No Account](https://img.shields.io/badge/Account-Not%20Required-orange?style=for-the-badge)
-
-![Chrome](https://img.shields.io/badge/Chrome-✅-yellow?style=flat-square&logo=googlechrome)
-![Edge](https://img.shields.io/badge/Edge-✅-blue?style=flat-square&logo=microsoftedge)
-![Brave](https://img.shields.io/badge/Brave-✅-orange?style=flat-square&logo=brave)
-![Firefox](https://img.shields.io/badge/Firefox-✅-red?style=flat-square&logo=firefox)
-![Safari](https://img.shields.io/badge/Safari-✅-lightblue?style=flat-square&logo=safari)
-
 **Created by [Rongon Kairy](https://github.com/RongonKairy)**
 
 </div>
