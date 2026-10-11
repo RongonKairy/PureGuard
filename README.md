@@ -37,8 +37,6 @@ PureGuard keeps your browsing **clean and safe**. It blocks adult websites from 
 
 <div align="center">
 
-<img src="assets/logo.png" width="90" alt="PureGuard" />
-
 ## 📋 Table of Contents
 
 </div>
