@@ -98,17 +98,18 @@ PureGuard keeps your browsing **clean and safe**. It blocks adult websites from 
 
 Download the ZIP for your browser from the **[Releases](../../releases)** page.
 
+
+| Browser | ZIP File |
+|---------|---------|
+| Chrome, Edge, Brave, Safari | `pureguard-chrome-edge-brave-safari.zip` |
+| Firefox | `pureguard-firefox.zip` |
+
 <p align="center">
   <a href="https://github.com/RongonKairy/PureGuard/releases/tag/v1.2.1"
      target="_blank">
     <img src="https://img.shields.io/badge/🛡️%20Install%20PureGuard%20v1.2.1-Download%20Now-1a73e8?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-| Browser | ZIP File |
-|---------|---------|
-| Chrome, Edge, Brave, Safari | `pureguard-chrome-edge-brave-safari.zip` |
-| Firefox | `pureguard-firefox.zip` |
 
 ---
 
